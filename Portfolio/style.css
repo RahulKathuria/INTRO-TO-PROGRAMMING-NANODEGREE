@@ -1,0 +1,21 @@
+body{
+	font-family: 'Barrio', cursive;
+	color: #7d97ad;
+}
+header{
+	margin-top: 20px;
+}
+p{
+	text-align: center;
+	font-size: 30px;
+}
+h4.movie_name{
+	text-transform: uppercase;
+	text-align: center;
+}
+.header-text{
+	font-size: 50px;
+}
+.header-1-text{
+	font-size: 40px;
+}
